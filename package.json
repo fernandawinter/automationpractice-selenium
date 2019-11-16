@@ -1,0 +1,19 @@
+{
+  "name": "automationpractice-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandawinter/automationpractice-selenium.git"
+  },
+  "author": "Fernanda Winter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandawinter/automationpractice-selenium/issues"
+  },
+  "homepage": "https://github.com/fernandawinter/automationpractice-selenium#readme"
+}

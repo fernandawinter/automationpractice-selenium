@@ -1,7 +1,9 @@
 exports.config = {
+    defaultTimeoutInterval: 60000,
     directConnect: true,
-    capabilities:{
-        'browserName': 'chrome'},
+    capabilities: {
+        'browserName': 'chrome'
+    },
     framework: 'jasmine2',
-    specs: ['test.js']
+    specs: ['src/specs/automation-practice.spec.js']
 };

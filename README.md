@@ -8,7 +8,7 @@ Ter um navegador instalado no computador, bem como o node.js.
 
 ## Como rodar a aplicação
 
-Basta digitar no terminal `npm install` e em seguida npm test.
+Basta digitar no terminal `npm install` e em seguida `npm test`.
 
 ## Como foi construído
 
@@ -16,6 +16,8 @@ Basta digitar no terminal `npm install` e em seguida npm test.
 
 ## Como consegui realizar a tarefa proposta
 Nunca havia utilizado Selenium para realizar testes, mas gostei da ferramenta. Por não conhecer tanto assim, recorri a alguns links da Internet para ir montando o exercício.
+
+Segue o link do vídeo que mostra o teste funcionando: [https://youtu.be/buju965bwX4](https://youtu.be/buju965bwX4)
 
 
 ## Referências

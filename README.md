@@ -9,6 +9,7 @@ Ter um navegador instalado no computador, bem como o node.js.
 ## Como rodar a aplicação
 
 Basta digitar no terminal `npm install` e em seguida `npm test`.
+Caso apareça o erro `Error: Could not find update-config.json. Run 'webdriver-manager update' to download binaries` será necessário realizar o comando `npx webdriver-manager update`.
 
 ## Como foi construído
 

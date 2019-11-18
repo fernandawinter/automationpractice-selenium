@@ -16,5 +16,7 @@
     "url": "https://github.com/fernandawinter/automationpractice-selenium/issues"
   },
   "homepage": "https://github.com/fernandawinter/automationpractice-selenium#readme",
-  "dependencies": {}
+  "dependencies": {
+    "protractor": "^5.4.2"
+  }
 }

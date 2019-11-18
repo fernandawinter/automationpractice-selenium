@@ -10,7 +10,10 @@ describe("Automation Practice", function () {
         //1.          Acessar o site: www.automationpractice.com. 
 
         //Visitar a URL www.automationpractice.com ('')
-        browser.get("http://automationpractice.com/index.php?");
+
+        const URL = 'http://automationpractice.com/index.php?'
+
+        browser.get(URL);
         
         //2.          Escolha um produto qualquer na loja.
         

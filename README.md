@@ -4,7 +4,7 @@ A proposta solicita para que seja realizada a compra de qualquer item do site[ww
 
 ## Pré-requisitos para rodar a aplicação
 
-Ter um navegador instalado no computador, bem como o node.js.
+Ter o Google Chrome instalado no computador, bem como o node.js.
 
 ## Como rodar a aplicação
 
@@ -20,6 +20,10 @@ Nunca havia utilizado Selenium para realizar testes, mas gostei da ferramenta. P
 
 Segue o link do vídeo que mostra o teste funcionando: [https://youtu.be/buju965bwX4](https://youtu.be/buju965bwX4)
 
+## O que eu poderia ter feito se tivesse mais tempo
+- Fazer testes menores pra testar de forma independente cada etapa do site 
+- Fazer os testes utilizando Java + Selenium em um outro repositório
+
 
 ## Referências
 Links de onde encontrei material para estudar/entender tópicos que ainda não havia entendido muito bem do Javascript utilizando Selenium:
@@ -27,7 +31,3 @@ Links de onde encontrei material para estudar/entender tópicos que ainda não h
 * [https://techblog.poppulo.com/removing-sleeps-from-your-angularjs-protractor-tests/](https://techblog.poppulo.com/removing-sleeps-from-your-angularjs-protractor-tests/)
 
 * [https://firstdoit.com/no-need-for-globals-using-npm-dependencies-in-npm-scripts-3dfb478908](https://firstdoit.com/no-need-for-globals-using-npm-dependencies-in-npm-scripts-3dfb478908)
-
-* [https://stackoverflow.com/questions/27972402/protractor-jasmine-timeout-issue](https://stackoverflow.com/questions/27972402/protractor-jasmine-timeout-issue)
-
-* 

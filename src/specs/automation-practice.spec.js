@@ -66,12 +66,10 @@ describe("Automation Practice", function () {
         //7. Valide se o endereço está correto e prossiga.
         helper.waitForElement(SELECTORS.CONFIRM_MY_ORDER_BUTTON);
         element(by.css(SELECTORS.ADDRESS_VALIDATION_AND_PROCEED_TO_CHECKOUT_BUTTON)).click();
-        (SELECTORS.TERMS_OF_SERVICE_CHECK), 10000;
 
         //8. Aceite os termos de serviço e prossiga.
         helper.waitForElement(SELECTORS.CONFIRM_MY_ORDER_BUTTON);
         element(by.css(SELECTORS.TERMS_OF_SERVICE_CHECK)).click();
-        (SELECTORS.PROCEED_TO_THE_NEXT_STEP_BUTTON);
 
         element(by.css(SELECTORS.PROCEED_TO_THE_NEXT_STEP_BUTTON)).click();
 

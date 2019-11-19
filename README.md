@@ -1,6 +1,6 @@
 # Compra com sucesso
 
-A proposta solicita para que seja realizada a compra de qualquer item do site[www.automationpractice.com](www.automationpractice.com), passando por todos os passos que o site requer para que a compra seja realizada com sucesso.
+A proposta solicita para que seja realizada a compra de qualquer item do site [www.automationpractice.com](www.automationpractice.com), passando por todos os passos que o site requer para que a compra seja realizada com sucesso.
 
 ## Pré-requisitos para rodar a aplicação
 
